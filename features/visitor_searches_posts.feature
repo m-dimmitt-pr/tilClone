@@ -17,9 +17,9 @@ Feature: Visitor searches posts
     And I visit the homepage
     When I search for "needle" in the search bar
     Then I am on the homepage
+    And I see a header "1 post about needle"
     And I see the "Needles" post
     And I do not see the "Hay" post
-    And I see a header "1 post about needle"
 
   @javascript
   Scenario: Via search form with no query
