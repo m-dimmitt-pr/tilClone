@@ -2,6 +2,7 @@ development: &default
   google_client_id:
   google_client_secret:
   slack_post_endpoint:
+  organization_name:
 test:
   <<: *default
   slack_post_endpoint:
