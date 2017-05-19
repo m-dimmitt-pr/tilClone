@@ -3,9 +3,9 @@ development: &default
   google_client_id: '672451742467-l174olj3q8egh4fib17b5aof81seo30h.apps.googleusercontent.com'
   google_client_secret: 'F7Ry-0vh8Jfn3oV29_z9lIpP'
   heroku_production_app_name:
-  host: 'http://localhost:3000'
-  protocol: 'http://'
-  permitted_domains: 'localhost:3000|hashrocket.com|hshrckt.com|example.com'
+    host: 'herokuapp.com'
+  protocol: 'https://'
+  permitted_domains: 'herokuapp.com|hashrocket.com|hshrckt.com|example.com'
   permitted_emails: 'michaelgdimmitt@gmail.com|michaeldimmitt@icloud.com'
   slack_post_endpoint:
   twitter_access_token:

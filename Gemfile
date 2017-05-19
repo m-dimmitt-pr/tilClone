@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.3.3'
 
-gem 'rails', '~> 5.x'
+gem 'rails'
 
 gem 'active_model_serializers'
 gem 'airbrake'

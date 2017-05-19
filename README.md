@@ -1,5 +1,7 @@
 # HR-TIL
 
+![screen shot 2017-05-19 at 4 04 12 pm](https://cloud.githubusercontent.com/assets/11463275/26264990/02fcafb0-3cad-11e7-83ae-f0d262fb47db.png)
+
 [![Circle CI](https://circleci.com/gh/hashrocket/hr-til.svg?style=svg)](https://circleci.com/gh/hashrocket/hr-til) [![Code Climate](https://codeclimate.com/github/hashrocket/hr-til/badges/gpa.svg)](https://codeclimate.com/github/hashrocket/hr-til) [![Issue Count](https://codeclimate.com/github/hashrocket/hr-til/badges/issue_count.svg)](https://codeclimate.com/github/hashrocket/hr-til)
 
 > TIL is an open-source project by the team at
@@ -44,6 +46,16 @@ permitted_domains: 'hashrocket.com|hshrckt.com'
 permitted_emails: 'friend@whitelist.com'
 ```
 
+##### To get admin route working on localhost.
+
+
+```
+1. Navigate to https://console.developers.google.com/
+2. Click "Dashboard" tab -> click Enable API ... ensure "Google+" and "Contacts" API's are enabled. 
+3. Click "Credentials" tab -> click "Create credentials -> OAuth ClientID -> Select web application
+4. Add to Authorized Redirect URL's: http://localhost:3000/auth/google_oauth2/callback
+5. click create -> copy Client ID and Client Secret into config/application.yml
+```
 Once set, visit '/admin' and log in with a permitted email address or domain.
 
 ### Testing
