@@ -1,0 +1,2177 @@
+/* line 1, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .hll {
+  background-color: #ffffcc;
+}
+
+/* line 2, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight {
+  background: #000000;
+  color: #EEEEEE;
+}
+
+/* line 3, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .c {
+  color: #9933CC;
+  font-style: italic;
+}
+
+/* Comment */
+/* line 4, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .err {
+  color: #EEEEEE;
+}
+
+/* Error */
+/* line 5, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .g {
+  color: #EEEEEE;
+}
+
+/* Generic */
+/* line 6, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .k {
+  color: #FF6600;
+}
+
+/* Keyword */
+/* line 7, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .l {
+  color: #EEEEEE;
+}
+
+/* Literal */
+/* line 8, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .n {
+  color: #EEEEEE;
+}
+
+/* Name */
+/* line 9, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .o {
+  color: #EEEEEE;
+}
+
+/* Operator */
+/* line 10, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .x {
+  color: #EEEEEE;
+}
+
+/* Other */
+/* line 11, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .p {
+  color: #EEEEEE;
+}
+
+/* Punctuation */
+/* line 12, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .cm {
+  color: #9933CC;
+  font-style: italic;
+}
+
+/* Comment.Multiline */
+/* line 13, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .cp {
+  color: #AAFFFF;
+  font-style: italic;
+}
+
+/* Comment.Preproc */
+/* line 14, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .c1 {
+  color: #9933CC;
+  font-style: italic;
+}
+
+/* Comment.Single */
+/* line 15, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .cs {
+  color: #9933CC;
+  font-style: italic;
+}
+
+/* Comment.Special */
+/* line 16, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .gd {
+  color: #8a2be2;
+  font-weight: bold;
+  background-color: #008080;
+}
+
+/* Generic.Deleted */
+/* line 17, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .ge {
+  color: #EEEEEE;
+}
+
+/* Generic.Emph */
+/* line 18, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .gr {
+  color: #EEEEEE;
+  background-color: #c00000;
+}
+
+/* Generic.Error */
+/* line 19, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .gh {
+  color: #ff00ff;
+  font-weight: bold;
+}
+
+/* Generic.Heading */
+/* line 20, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .gi {
+  color: #EEEEEE;
+  font-weight: bold;
+  background-color: #00008b;
+}
+
+/* Generic.Inserted */
+/* line 21, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .go {
+  color: #404040;
+  font-weight: bold;
+}
+
+/* Generic.Output */
+/* line 22, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .gp {
+  color: #EEEEEE;
+}
+
+/* Generic.Prompt */
+/* line 23, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .gs {
+  color: #EEEEEE;
+}
+
+/* Generic.Strong */
+/* line 24, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .gu {
+  color: #ff00ff;
+  font-weight: bold;
+}
+
+/* Generic.Subheading */
+/* line 25, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .gt {
+  color: #EEEEEE;
+  background-color: #ff0000;
+}
+
+/* Generic.Traceback */
+/* line 26, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .kc {
+  color: #FF6600;
+}
+
+/* Keyword.Constant */
+/* line 27, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .kd {
+  color: #FF6600;
+}
+
+/* Keyword.Declaration */
+/* line 28, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .kn {
+  color: #FF6600;
+}
+
+/* Keyword.Namespace */
+/* line 29, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .kp {
+  color: #FF6600;
+}
+
+/* Keyword.Pseudo */
+/* line 30, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .kr {
+  color: #FF6600;
+}
+
+/* Keyword.Reserved */
+/* line 31, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .kt {
+  color: #AAAA77;
+}
+
+/* Keyword.Type */
+/* line 32, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .ld {
+  color: #EEEEEE;
+}
+
+/* Literal.Date */
+/* line 33, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .m {
+  color: #EEEEEE;
+}
+
+/* Literal.Number */
+/* line 34, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .s {
+  color: #66FF00;
+}
+
+/* Literal.String */
+/* line 35, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .na {
+  color: #EEEEEE;
+}
+
+/* Name.Attribute */
+/* line 36, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .nb {
+  color: #EEEEEE;
+}
+
+/* Name.Builtin */
+/* line 37, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .nc {
+  color: #EEEEEE;
+}
+
+/* Name.Class */
+/* line 38, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .no {
+  color: #339999;
+}
+
+/* Name.Constant */
+/* line 39, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .nd {
+  color: #EEEEEE;
+}
+
+/* Name.Decorator */
+/* line 40, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .ni {
+  color: #33AA00;
+}
+
+/* Name.Entity */
+/* line 41, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .ne {
+  color: #EEEEEE;
+}
+
+/* Name.Exception */
+/* line 42, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .nf {
+  color: #EEEEEE;
+}
+
+/* Name.Function */
+/* line 43, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .nl {
+  color: #EEEEEE;
+}
+
+/* Name.Label */
+/* line 44, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .nn {
+  color: #EEEEEE;
+}
+
+/* Name.Namespace */
+/* line 45, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .nx {
+  color: #EEEEEE;
+}
+
+/* Name.Other */
+/* line 46, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .py {
+  color: #EEEEEE;
+}
+
+/* Name.Property */
+/* line 47, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .nt {
+  color: #FF6600;
+}
+
+/* Name.Tag */
+/* line 48, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .nv {
+  color: #FFCC00;
+}
+
+/* Name.Variable */
+/* line 49, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .ow {
+  color: #EEEEEE;
+}
+
+/* Operator.Word */
+/* line 50, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .w {
+  color: #EEEEEE;
+}
+
+/* Text.Whitespace */
+/* line 51, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .mf {
+  color: #EEEEEE;
+}
+
+/* Literal.Number.Float */
+/* line 52, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .mh {
+  color: #EEEEEE;
+}
+
+/* Literal.Number.Hex */
+/* line 53, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .mi {
+  color: #EEEEEE;
+}
+
+/* Literal.Number.Integer */
+/* line 54, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .mo {
+  color: #EEEEEE;
+}
+
+/* Literal.Number.Oct */
+/* line 55, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .sb {
+  color: #66FF00;
+}
+
+/* Literal.String.Backtick */
+/* line 56, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .sc {
+  color: #66FF00;
+}
+
+/* Literal.String.Char */
+/* line 57, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .sd {
+  color: #66FF00;
+}
+
+/* Literal.String.Doc */
+/* line 58, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .s2 {
+  color: #66FF00;
+}
+
+/* Literal.String.Double */
+/* line 59, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .se {
+  color: #66FF00;
+}
+
+/* Literal.String.Escape */
+/* line 60, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .sh {
+  color: #66FF00;
+}
+
+/* Literal.String.Heredoc */
+/* line 61, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .si {
+  color: #66FF00;
+}
+
+/* Literal.String.Interpol */
+/* line 62, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .sx {
+  color: #66FF00;
+}
+
+/* Literal.String.Other */
+/* line 63, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .sr {
+  color: #66FF00;
+}
+
+/* Literal.String.Regex */
+/* line 64, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .s1 {
+  color: #66FF00;
+}
+
+/* Literal.String.Single */
+/* line 65, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .ss {
+  color: #66FF00;
+}
+
+/* Literal.String.Symbol */
+/* line 66, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .bp {
+  color: #EEEEEE;
+}
+
+/* Name.Builtin.Pseudo */
+/* line 67, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .vc {
+  color: #FFCC00;
+}
+
+/* Name.Variable.Class */
+/* line 68, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .vg {
+  color: #FFCC00;
+}
+
+/* Name.Variable.Global */
+/* line 69, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .vi {
+  color: #FFCC00;
+}
+
+/* Name.Variable.Instance */
+/* line 70, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight .il {
+  color: #EEEEEE;
+}
+
+/* Literal.Number.Integer.Long */
+/* line 72, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight.diff .gh {
+  color: #f1f159;
+}
+
+/* line 73, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight.diff .gu {
+  color: #f1f159;
+}
+
+/* line 74, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight.diff .gd {
+  color: #fc4e2b;
+  background-color: #333333;
+}
+
+/* line 75, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/vividchalk.scss */
+.highlight.diff .gi {
+  color: #3ce670;
+  background-color: #333333;
+}
+
+/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+/**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+/* line 9, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+html {
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+
+/**
+ * Remove default margin.
+ */
+/* line 19, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+body {
+  margin: 0;
+}
+
+/* HTML5 display definitions
+   ========================================================================== */
+/**
+ * Correct `block` display not defined for any HTML5 element in IE 8/9.
+ * Correct `block` display not defined for `details` or `summary` in IE 10/11
+ * and Firefox.
+ * Correct `block` display not defined for `main` in IE 11.
+ */
+/* line 33, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+
+/**
+ * 1. Correct `inline-block` display not defined in IE 8/9.
+ * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
+ */
+/* line 54, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  /* 1 */
+  vertical-align: baseline;
+  /* 2 */
+}
+
+/**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+/* line 67, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+/**
+ * Address `[hidden]` styling not present in IE 8/9/10.
+ * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
+ */
+/* line 77, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+[hidden],
+template {
+  display: none;
+}
+
+/* Links
+   ========================================================================== */
+/**
+ * Remove the gray background color from active links in IE 10.
+ */
+/* line 89, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+a {
+  background-color: transparent;
+}
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+/* line 97, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+a:active,
+a:hover {
+  outline: 0;
+}
+
+/* Text-level semantics
+   ========================================================================== */
+/**
+ * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
+ */
+/* line 109, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
+ */
+/* line 117, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+b,
+strong {
+  font-weight: bold;
+}
+
+/**
+ * Address styling not present in Safari and Chrome.
+ */
+/* line 126, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+dfn {
+  font-style: italic;
+}
+
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari, and Chrome.
+ */
+/* line 135, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+/* line 144, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+/* line 153, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+small {
+  font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+/* line 161, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+/* line 169, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+sup {
+  top: -0.5em;
+}
+
+/* line 173, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+sub {
+  bottom: -0.25em;
+}
+
+/* Embedded content
+   ========================================================================== */
+/**
+ * Remove border when inside `a` element in IE 8/9/10.
+ */
+/* line 184, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+img {
+  border: 0;
+}
+
+/**
+ * Correct overflow not hidden in IE 9/10/11.
+ */
+/* line 192, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+svg:not(:root) {
+  overflow: hidden;
+}
+
+/* Grouping content
+   ========================================================================== */
+/**
+ * Address margin not present in IE 8/9 and Safari.
+ */
+/* line 203, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+figure {
+  margin: 1em 40px;
+}
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+/* line 211, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+hr {
+  box-sizing: content-box;
+  height: 0;
+}
+
+/**
+ * Contain overflow in all browsers.
+ */
+/* line 221, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+pre {
+  overflow: auto;
+}
+
+/**
+ * Address odd `em`-unit font size rendering in all browsers.
+ */
+/* line 229, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+/* Forms
+   ========================================================================== */
+/**
+ * Known limitation: by default, Chrome and Safari on OS X allow very limited
+ * styling of `select`, unless a `border` property is set.
+ */
+/**
+ * 1. Correct color not being inherited.
+ *    Known issue: affects color of disabled elements.
+ * 2. Correct font properties not being inherited.
+ * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
+ */
+/* line 252, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  /* 1 */
+  font: inherit;
+  /* 2 */
+  margin: 0;
+  /* 3 */
+}
+
+/**
+ * Address `overflow` set to `hidden` in IE 8/9/10/11.
+ */
+/* line 266, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+button {
+  overflow: visible;
+}
+
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
+ * Correct `select` style inheritance in Firefox.
+ */
+/* line 277, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+button,
+select {
+  text-transform: none;
+}
+
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+/* line 290, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  /* 2 */
+  cursor: pointer;
+  /* 3 */
+}
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+/* line 302, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+/* line 311, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+/* line 322, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+input {
+  line-height: normal;
+}
+
+/**
+ * It's recommended that you don't attempt to style these elements.
+ * Firefox's implementation doesn't respect box-sizing, padding, or width.
+ *
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ */
+/* line 334, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+
+/**
+ * Fix the cursor style for Chrome's increment/decrement buttons. For certain
+ * `font-size` values of the `input`, it causes the cursor style of the
+ * decrement button to change from `default` to `text`.
+ */
+/* line 346, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
+ *    (include `-moz` to future-proof).
+ */
+/* line 357, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  /* 2 */
+  box-sizing: content-box;
+}
+
+/**
+ * Remove inner padding and search cancel button in Safari and Chrome on OS X.
+ * Safari (but not Chrome) clips the cancel button when the search input has
+ * padding (and `textfield` appearance).
+ */
+/* line 370, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+ * Define consistent border, margin, and padding.
+ */
+/* line 379, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+/**
+ * 1. Correct `color` not being inherited in IE 8/9/10/11.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+/* line 390, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+legend {
+  border: 0;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+
+/**
+ * Remove default vertical scrollbar in IE 8/9/10/11.
+ */
+/* line 399, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+textarea {
+  overflow: auto;
+}
+
+/**
+ * Don't inherit the `font-weight` (applied by a rule above).
+ * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
+ */
+/* line 408, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+optgroup {
+  font-weight: bold;
+}
+
+/* Tables
+   ========================================================================== */
+/**
+ * Remove most spacing between table cells.
+ */
+/* line 419, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 424, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/normalize.scss */
+td,
+th {
+  padding: 0;
+}
+
+/* line 6, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/lib/assets/stylesheets/_reset.sass */
+ul, ol {
+  list-style: none;
+}
+
+/* line 8, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/lib/assets/stylesheets/_reset.sass */
+h1, h2, h3, h4, h5, h6, pre, code {
+  font-size: 1em;
+}
+
+/* line 10, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/lib/assets/stylesheets/_reset.sass */
+ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fieldset, input, dl, dt, dd, figure, figcaption, button {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 13, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/lib/assets/stylesheets/_reset.sass */
+a img, :link img, :visited img, fieldset {
+  border: none;
+}
+
+/* line 15, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/lib/assets/stylesheets/_reset.sass */
+address {
+  font-style: normal;
+}
+
+/* line 17, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/lib/assets/stylesheets/_reset.sass */
+header, section, article, nav, footer, hgroup, details, summary, figure, main {
+  display: block;
+}
+
+/* line 19, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/lib/assets/stylesheets/_reset.sass */
+mark {
+  color: inherit;
+  background: transparent;
+}
+
+/* line 22, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/lib/assets/stylesheets/_reset.sass */
+abbr {
+  border: none;
+}
+
+/* line 24, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/lib/assets/stylesheets/_reset.sass */
+summary::-webkit-details-marker {
+  display: none;
+}
+
+/* line 1, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+html {
+  font-size: 62.5%;
+}
+
+/* line 4, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+body {
+  -webkit-text-size-adjust: none;
+  -webkit-font-smoothing: antialiased;
+  background: #d5e9f5;
+  color: #414347;
+  font-family: "Lora", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1.6em;
+}
+
+/* line 12, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+header.site_head {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 1;
+  padding: 2vw 6vw;
+  text-align: center;
+}
+/* line 20, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+header.site_head div {
+  display: inline-block;
+  position: relative;
+}
+/* line 23, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+header.site_head a {
+  display: block;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, sans-serif;
+  text-transform: uppercase;
+  color: #082736;
+  letter-spacing: 0.1em;
+  font-weight: 900;
+  font-size: 7vw;
+  line-height: 1;
+}
+/* line 32, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+header.site_head h2 {
+  position: absolute;
+  top: 90%;
+  right: 0;
+  margin-right: 1vw;
+}
+/* line 37, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+header.site_head h2 a {
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 700;
+  display: inline-block;
+  padding: 1rem 0 1rem 2.5rem;
+}
+@media screen and (max-width: 600px) {
+  /* line 37, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  header.site_head h2 a {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-top: 1.2rem;
+  }
+}
+/* line 47, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+header.site_head h2 a.hr {
+  color: #ae1f23;
+  background: left 55% no-repeat url(/assets/hashrocket-logo-dbe04a86f7379488f78abdf9012b7c1df07735b733207dc5c40e01931ad67bfc.png);
+  background-size: 1.8rem auto;
+}
+/* line 51, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+header.site_head h2 a.twitter {
+  color: #55acee;
+  background: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 15.8 12.9' width='15.8px' height='12.9px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%2355acee'%3E%3Cpath d='M0,11.4c0.2,0,0.5,0,0.8,0c1.5,0,2.8-0.5,4-1.4c-0.7,0-1.3-0.2-1.9-0.6C2.4,9,2,8.5,1.8,7.8 c0.2,0,0.4,0.1,0.6,0.1c0.3,0,0.6,0,0.9-0.1C2.5,7.6,1.9,7.2,1.4,6.6C0.9,6,0.6,5.3,0.6,4.6v0c0.5,0.3,0.9,0.4,1.5,0.4 C1.7,4.6,1.3,4.3,1.1,3.8c-0.3-0.5-0.4-1-0.4-1.5c0-0.6,0.1-1.1,0.4-1.6c0.8,1,1.8,1.8,3,2.4c1.2,0.6,2.4,0.9,3.7,1 C7.7,3.7,7.7,3.5,7.7,3.2c0-0.9,0.3-1.7,0.9-2.3S10.1,0,11,0c0.9,0,1.7,0.3,2.4,1c0.7-0.1,1.4-0.4,2.1-0.8C15.1,1,14.7,1.6,14,2 c0.6-0.1,1.2-0.2,1.9-0.5c-0.4,0.7-1,1.2-1.6,1.7c0,0.1,0,0.2,0,0.4c0,0.9-0.1,1.7-0.4,2.6c-0.3,0.9-0.6,1.7-1.2,2.5 c-0.5,0.8-1.1,1.5-1.9,2.1s-1.6,1.1-2.6,1.5c-1,0.4-2.1,0.5-3.2,0.5C3.2,12.9,1.5,12.4,0,11.4z'/%3E%3C/g%3E%3C/svg%3E") center left no-repeat;
+  background-size: 1.7rem auto;
+  margin: 0 0 0 1rem;
+}
+@media screen and (max-width: 600px) {
+  /* line 12, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  header.site_head {
+    z-index: 100;
+    background: #fff;
+    text-align: right;
+    background: rgba(255, 255, 255, 0.9);
+    border: 0.2rem solid rgba(255, 255, 255, 0.9);
+    padding-right: 1rem;
+    padding-bottom: 0;
+  }
+  /* line 63, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  header.site_head h2 {
+    position: static;
+    float: right;
+    margin-top: -1rem;
+  }
+}
+
+/* line 68, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+}
+/* line 130, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/mercury.scss */
+.site_nav > ul:after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+@media screen and (max-width: 600px) {
+  /* line 73, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .site_nav > ul {
+    background: rgba(255, 255, 255, 0.8);
+    border-top: 2px solid rgba(255, 255, 255, 0.9);
+  }
+}
+/* line 78, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav > ul > li {
+  clear: left;
+  float: left;
+}
+@media screen and (max-width: 600px) {
+  /* line 78, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .site_nav > ul > li {
+    clear: none;
+  }
+}
+/* line 84, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav > ul > li.site_nav--open .site_nav__link {
+  opacity: 1;
+}
+/* line 86, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav > ul > li.site_nav--open .site_nav__toggle {
+  width: auto;
+  opacity: 1;
+  box-shadow: 0 0 3rem rgba(8, 39, 54, 0.2);
+}
+
+/* line 91, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__link {
+  display: inline-block;
+  width: 6rem;
+  height: 6rem;
+  -webkit-transition: opacity 0.2s;
+  transition: opacity 0.2s;
+  border: none;
+  overflow: hidden;
+  text-indent: 101%;
+  white-space: nowrap;
+  background: transparent center no-repeat;
+  background-size: 60% auto;
+  opacity: 0.7;
+}
+@media screen and (max-width: 800px) {
+  /* line 91, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .site_nav__link {
+    width: 5rem;
+  }
+}
+@media screen and (max-width: 800px) {
+  /* line 91, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .site_nav__link {
+    height: 5rem;
+  }
+}
+/* line 101, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__link:hover {
+  opacity: 1;
+}
+
+/* line 104, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__toggle {
+  position: absolute;
+  left: 100%;
+  bottom: 0;
+  width: 0;
+  overflow: hidden;
+  -webkit-transition: opacity 0.2s;
+  transition: opacity 0.2s;
+  opacity: 0;
+}
+@media screen and (max-width: 600px) {
+  /* line 104, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .site_nav__toggle {
+    bottom: 100%;
+    left: 0;
+    margin-bottom: 1rem;
+  }
+}
+
+/* line 118, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__statistics a.site_nav__link {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 100 100' width='100px' height='100px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%23082736'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' style='opacity: 0.2' d='M79.7,0v100H100V0H79.7z M0,100h20.3V0H0V100z M26.6,100h20.3V0 H26.6V100z M53.1,100h20.3V0H53.1V100z'/%3E %3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0,100h20.3V53.1H0V100z M26.6,100h20.3V73.4H26.6V100z M53.1,100h20.3V28.1 H53.1V100z M79.7,0v100H100V0H79.7z'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* line 121, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about {
+  position: relative;
+}
+/* line 123, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about a.site_nav__link {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 100 100' width='100px' height='100px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%23082736'%3E%3Cpath d='M31.2,65.8c0-2.1,0.1-4.1,0.4-6.1c0.3-1.9,0.8-3.8,1.6-5.6c0.8-1.8,1.9-3.5,3.4-5c1.5-1.6,3.4-3,5.8-4.3 c1.2-0.6,2.8-1.5,4.8-2.6c2-1.1,3.9-2.3,5.8-3.7c1.9-1.4,3.5-3,4.9-4.8c1.4-1.8,2.1-3.8,2.1-6c0-3-1.1-5.4-3.3-7.1 c-2.2-1.7-4.7-2.6-7.6-2.6c-1.8,0-3.5,0.3-4.9,1c-1.4,0.7-2.7,1.5-3.9,2.5c-1.1,1-2.1,2-3,3.2c-0.8,1.2-1.6,2.3-2.2,3.2l-14.2-9.9 c2.4-5.6,6.2-10,11.4-13.1C37.5,2,43.3,0.4,49.9,0.4c3.5,0,7,0.5,10.5,1.5c3.5,1,6.6,2.6,9.4,4.8c2.8,2.2,5,5.1,6.8,8.6 c1.7,3.5,2.6,7.7,2.6,12.7c0,5.2-1.1,9.6-3.2,13.2c-2.2,3.5-5.4,6.6-9.6,9.3c-1.9,1.3-3.9,2.4-5.9,3.4c-2,1-3.8,2.1-5.4,3.2 c-1.7,1.1-3,2.3-4,3.7c-1,1.4-1.5,3-1.5,5H31.2z M31.7,99.6V78.9h18.1v20.7H31.7z'/%3E%3C/g%3E%3C/svg%3E");
+}
+/* line 126, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about .site_nav__toggle .copy {
+  box-sizing: border-box;
+  padding: 2em;
+  font-style: italic;
+  background: #fff;
+  font-size: 0.9em;
+}
+/* line 134, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about.site_nav--open .site_nav__toggle .copy {
+  width: 40rem;
+}
+@media screen and (max-width: 600px) {
+  /* line 134, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .site_nav__about.site_nav--open .site_nav__toggle .copy {
+    width: 30rem;
+  }
+}
+/* line 138, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about ul.social {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+/* line 130, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/mercury.scss */
+.site_nav__about ul.social:after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+/* line 143, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about ul.social li {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+@media screen and (max-width: 600px) {
+  /* line 143, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .site_nav__about ul.social li {
+    width: auto;
+    float: none;
+  }
+}
+/* line 152, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about ul.social a.social_twitter,
+.site_nav__about ul.social a.social_github {
+  display: block;
+  padding-left: 3rem;
+  line-height: 3rem;
+  background: left center no-repeat;
+  background-size: 2.5rem auto;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #414347;
+}
+@media screen and (max-width: 600px) {
+  /* line 152, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .site_nav__about ul.social a.social_twitter,
+  .site_nav__about ul.social a.social_github {
+    font-size: 0.9em;
+  }
+}
+/* line 165, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about ul.social a.social_twitter {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 15.8 12.9' width='15.8px' height='12.9px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%23082736'%3E%3Cpath d='M0,11.4c0.2,0,0.5,0,0.8,0c1.5,0,2.8-0.5,4-1.4c-0.7,0-1.3-0.2-1.9-0.6C2.4,9,2,8.5,1.8,7.8 c0.2,0,0.4,0.1,0.6,0.1c0.3,0,0.6,0,0.9-0.1C2.5,7.6,1.9,7.2,1.4,6.6C0.9,6,0.6,5.3,0.6,4.6v0c0.5,0.3,0.9,0.4,1.5,0.4 C1.7,4.6,1.3,4.3,1.1,3.8c-0.3-0.5-0.4-1-0.4-1.5c0-0.6,0.1-1.1,0.4-1.6c0.8,1,1.8,1.8,3,2.4c1.2,0.6,2.4,0.9,3.7,1 C7.7,3.7,7.7,3.5,7.7,3.2c0-0.9,0.3-1.7,0.9-2.3S10.1,0,11,0c0.9,0,1.7,0.3,2.4,1c0.7-0.1,1.4-0.4,2.1-0.8C15.1,1,14.7,1.6,14,2 c0.6-0.1,1.2-0.2,1.9-0.5c-0.4,0.7-1,1.2-1.6,1.7c0,0.1,0,0.2,0,0.4c0,0.9-0.1,1.7-0.4,2.6c-0.3,0.9-0.6,1.7-1.2,2.5 c-0.5,0.8-1.1,1.5-1.9,2.1s-1.6,1.1-2.6,1.5c-1,0.4-2.1,0.5-3.2,0.5C3.2,12.9,1.5,12.4,0,11.4z'/%3E%3C/g%3E%3C/svg%3E");
+}
+/* line 167, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about ul.social a.social_twitter:hover {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 15.8 12.9' width='15.8px' height='12.9px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%2355acee'%3E%3Cpath d='M0,11.4c0.2,0,0.5,0,0.8,0c1.5,0,2.8-0.5,4-1.4c-0.7,0-1.3-0.2-1.9-0.6C2.4,9,2,8.5,1.8,7.8 c0.2,0,0.4,0.1,0.6,0.1c0.3,0,0.6,0,0.9-0.1C2.5,7.6,1.9,7.2,1.4,6.6C0.9,6,0.6,5.3,0.6,4.6v0c0.5,0.3,0.9,0.4,1.5,0.4 C1.7,4.6,1.3,4.3,1.1,3.8c-0.3-0.5-0.4-1-0.4-1.5c0-0.6,0.1-1.1,0.4-1.6c0.8,1,1.8,1.8,3,2.4c1.2,0.6,2.4,0.9,3.7,1 C7.7,3.7,7.7,3.5,7.7,3.2c0-0.9,0.3-1.7,0.9-2.3S10.1,0,11,0c0.9,0,1.7,0.3,2.4,1c0.7-0.1,1.4-0.4,2.1-0.8C15.1,1,14.7,1.6,14,2 c0.6-0.1,1.2-0.2,1.9-0.5c-0.4,0.7-1,1.2-1.6,1.7c0,0.1,0,0.2,0,0.4c0,0.9-0.1,1.7-0.4,2.6c-0.3,0.9-0.6,1.7-1.2,2.5 c-0.5,0.8-1.1,1.5-1.9,2.1s-1.6,1.1-2.6,1.5c-1,0.4-2.1,0.5-3.2,0.5C3.2,12.9,1.5,12.4,0,11.4z'/%3E%3C/g%3E%3C/svg%3E");
+  color: #55acee;
+}
+/* line 170, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about ul.social a.social_github {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 13.6 13.6' width='13.6px' height='13.6px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%23082736'%3E%3Cpath d='M0,7c0-1.2,0.3-2.4,0.9-3.4c0.6-1,1.4-1.9,2.5-2.5c1-0.6,2.2-0.9,3.4-0.9c1.2,0,2.4,0.3,3.4,0.9 c1,0.6,1.9,1.4,2.5,2.5c0.6,1,0.9,2.2,0.9,3.4c0,1.5-0.4,2.8-1.3,4c-0.9,1.2-2,2-3.4,2.5c-0.2,0-0.3,0-0.4-0.1 c-0.1-0.1-0.1-0.2-0.1-0.3v-1.9c0-0.6-0.2-1-0.5-1.3C8.4,10,8.7,9.9,9,9.8c0.3-0.1,0.5-0.2,0.8-0.3c0.3-0.2,0.5-0.4,0.7-0.6 C10.7,8.7,10.9,8.4,11,8c0.1-0.4,0.2-0.8,0.2-1.3c0-0.7-0.2-1.3-0.7-1.8c0.2-0.5,0.2-1.1-0.1-1.8C10.2,2.9,10,3,9.7,3.1 C9.4,3.2,9.1,3.3,8.9,3.5L8.5,3.7C8,3.5,7.4,3.5,6.8,3.5S5.7,3.5,5.1,3.7C5,3.6,4.9,3.5,4.7,3.5C4.6,3.4,4.3,3.2,4,3.1 C3.7,3,3.4,2.9,3.2,3C3,3.7,3,4.3,3.2,4.8C2.7,5.3,2.5,5.9,2.5,6.6c0,0.5,0.1,0.9,0.2,1.3c0.1,0.4,0.3,0.7,0.5,0.9 c0.2,0.2,0.4,0.4,0.7,0.6c0.3,0.2,0.6,0.3,0.8,0.3S5.2,10,5.6,10c-0.2,0.2-0.4,0.5-0.4,0.9C5,11,4.9,11,4.7,11c-0.1,0-0.3,0-0.5,0 c-0.2,0-0.4-0.1-0.6-0.2c-0.2-0.1-0.4-0.3-0.5-0.6C3,10.2,2.9,10,2.7,9.9C2.6,9.8,2.4,9.7,2.3,9.7l-0.2,0c-0.1,0-0.2,0-0.3,0 c0,0-0.1,0.1,0,0.1c0,0,0,0.1,0.1,0.1C1.9,9.9,2,10,2,10l0.1,0c0.1,0.1,0.3,0.2,0.4,0.3c0.1,0.2,0.2,0.3,0.3,0.5l0.1,0.2 c0.1,0.2,0.2,0.4,0.4,0.5c0.2,0.1,0.4,0.2,0.6,0.3c0.2,0,0.4,0.1,0.6,0.1c0.2,0,0.4,0,0.5,0l0.2,0c0,0.2,0,0.5,0,0.8 c0,0.3,0,0.5,0,0.5c0,0.1,0,0.2-0.1,0.3c-0.1,0.1-0.2,0.1-0.4,0.1C3.3,13,2.2,12.2,1.3,11C0.4,9.8,0,8.5,0,7z'/%3E%3C/g%3E%3C/svg%3E");
+}
+/* line 172, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__about ul.social a.social_github:hover {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 13.6 13.6' width='13.6px' height='13.6px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%234b4b4b'%3E%3Cpath d='M0,7c0-1.2,0.3-2.4,0.9-3.4c0.6-1,1.4-1.9,2.5-2.5c1-0.6,2.2-0.9,3.4-0.9c1.2,0,2.4,0.3,3.4,0.9 c1,0.6,1.9,1.4,2.5,2.5c0.6,1,0.9,2.2,0.9,3.4c0,1.5-0.4,2.8-1.3,4c-0.9,1.2-2,2-3.4,2.5c-0.2,0-0.3,0-0.4-0.1 c-0.1-0.1-0.1-0.2-0.1-0.3v-1.9c0-0.6-0.2-1-0.5-1.3C8.4,10,8.7,9.9,9,9.8c0.3-0.1,0.5-0.2,0.8-0.3c0.3-0.2,0.5-0.4,0.7-0.6 C10.7,8.7,10.9,8.4,11,8c0.1-0.4,0.2-0.8,0.2-1.3c0-0.7-0.2-1.3-0.7-1.8c0.2-0.5,0.2-1.1-0.1-1.8C10.2,2.9,10,3,9.7,3.1 C9.4,3.2,9.1,3.3,8.9,3.5L8.5,3.7C8,3.5,7.4,3.5,6.8,3.5S5.7,3.5,5.1,3.7C5,3.6,4.9,3.5,4.7,3.5C4.6,3.4,4.3,3.2,4,3.1 C3.7,3,3.4,2.9,3.2,3C3,3.7,3,4.3,3.2,4.8C2.7,5.3,2.5,5.9,2.5,6.6c0,0.5,0.1,0.9,0.2,1.3c0.1,0.4,0.3,0.7,0.5,0.9 c0.2,0.2,0.4,0.4,0.7,0.6c0.3,0.2,0.6,0.3,0.8,0.3S5.2,10,5.6,10c-0.2,0.2-0.4,0.5-0.4,0.9C5,11,4.9,11,4.7,11c-0.1,0-0.3,0-0.5,0 c-0.2,0-0.4-0.1-0.6-0.2c-0.2-0.1-0.4-0.3-0.5-0.6C3,10.2,2.9,10,2.7,9.9C2.6,9.8,2.4,9.7,2.3,9.7l-0.2,0c-0.1,0-0.2,0-0.3,0 c0,0-0.1,0.1,0,0.1c0,0,0,0.1,0.1,0.1C1.9,9.9,2,10,2,10l0.1,0c0.1,0.1,0.3,0.2,0.4,0.3c0.1,0.2,0.2,0.3,0.3,0.5l0.1,0.2 c0.1,0.2,0.2,0.4,0.4,0.5c0.2,0.1,0.4,0.2,0.6,0.3c0.2,0,0.4,0.1,0.6,0.1c0.2,0,0.4,0,0.5,0l0.2,0c0,0.2,0,0.5,0,0.8 c0,0.3,0,0.5,0,0.5c0,0.1,0,0.2-0.1,0.3c-0.1,0.1-0.2,0.1-0.4,0.1C3.3,13,2.2,12.2,1.3,11C0.4,9.8,0,8.5,0,7z'/%3E%3C/g%3E%3C/svg%3E");
+  color: #4b4b4b;
+}
+
+/* line 176, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__search {
+  position: relative;
+}
+/* line 178, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__search .site_nav__link {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 100 100' width='100px' height='100px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%23082736'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M90.7,9C79.3-2.4,60.9-2.4,49.5,9c-10.3,10.3-11.3,26.4-3,37.8L32.2,61l-2.7-2.7 L0.1,87.6l11.9,11.9l29.4-29.4l-2.7-2.7L53,53.2c11.4,8.3,27.4,7.3,37.7-3C102.1,38.8,102.1,20.3,90.7,9z M85.1,44.6 c-8.3,8.3-21.8,8.3-30.1,0c-8.3-8.3-8.3-21.8,0-30.1c8.3-8.3,21.8-8.3,30.1,0C93.5,22.9,93.5,36.3,85.1,44.6z'/%3E%3C/g%3E%3C/svg%3E");
+}
+/* line 180, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__search .site_nav__toggle {
+  background: #fff;
+  white-space: nowrap;
+  top: 0;
+  bottom: auto;
+  margin-top: 1rem;
+}
+@media screen and (max-width: 800px) {
+  /* line 180, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .site_nav__search .site_nav__toggle {
+    margin-top: 0.5rem;
+  }
+}
+/* line 186, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__search .site_nav__toggle button[type='submit'] {
+  margin: 0;
+}
+/* line 188, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__search .site_nav__toggle input[type='search'] {
+  width: 15rem;
+  background: rgba(255, 255, 255, 0.8);
+  border: none;
+}
+/* line 192, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__search .site_nav__toggle input[type='search']:focus {
+  background: #fff;
+}
+@media screen and (max-width: 600px) {
+  /* line 180, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .site_nav__search .site_nav__toggle {
+    top: auto;
+    bottom: 100%;
+  }
+}
+
+/* line 199, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.site_nav__twitter .site_nav__link {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 15.8 12.9' width='15.8px' height='12.9px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%23082736'%3E%3Cpath d='M0,11.4c0.2,0,0.5,0,0.8,0c1.5,0,2.8-0.5,4-1.4c-0.7,0-1.3-0.2-1.9-0.6C2.4,9,2,8.5,1.8,7.8 c0.2,0,0.4,0.1,0.6,0.1c0.3,0,0.6,0,0.9-0.1C2.5,7.6,1.9,7.2,1.4,6.6C0.9,6,0.6,5.3,0.6,4.6v0c0.5,0.3,0.9,0.4,1.5,0.4 C1.7,4.6,1.3,4.3,1.1,3.8c-0.3-0.5-0.4-1-0.4-1.5c0-0.6,0.1-1.1,0.4-1.6c0.8,1,1.8,1.8,3,2.4c1.2,0.6,2.4,0.9,3.7,1 C7.7,3.7,7.7,3.5,7.7,3.2c0-0.9,0.3-1.7,0.9-2.3S10.1,0,11,0c0.9,0,1.7,0.3,2.4,1c0.7-0.1,1.4-0.4,2.1-0.8C15.1,1,14.7,1.6,14,2 c0.6-0.1,1.2-0.2,1.9-0.5c-0.4,0.7-1,1.2-1.6,1.7c0,0.1,0,0.2,0,0.4c0,0.9-0.1,1.7-0.4,2.6c-0.3,0.9-0.6,1.7-1.2,2.5 c-0.5,0.8-1.1,1.5-1.9,2.1s-1.6,1.1-2.6,1.5c-1,0.4-2.1,0.5-3.2,0.5C3.2,12.9,1.5,12.4,0,11.4z'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* line 202, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.admin_panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 0.8em;
+  text-align: center;
+  z-index: 999;
+}
+/* line 212, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.admin_panel ul {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.9);
+  border: 0.2rem solid rgba(255, 255, 255, 0.9);
+  border-top: none;
+}
+@media screen and (max-width: 600px) {
+  /* line 212, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  .admin_panel ul {
+    display: block;
+  }
+}
+/* line 218, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.admin_panel li {
+  display: inline-block;
+}
+/* line 220, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.admin_panel li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #67acdb;
+  line-height: 1.5rem;
+}
+/* line 225, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.admin_panel li a:hover {
+  color: #ae1f23;
+}
+/* line 227, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.admin_panel + .site_head {
+  margin-top: 2.5rem;
+}
+/* line 229, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+.admin_panel + .site_head + main {
+  padding-top: 2.5rem;
+}
+
+/* line 232, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+main {
+  position: relative;
+  min-height: 60vh;
+  margin: 14vw 0 7rem 0;
+  z-index: 2;
+}
+@media screen and (max-width: 800px) {
+  /* line 232, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  main {
+    margin-top: 16vw;
+  }
+}
+@media screen and (max-width: 600px) {
+  /* line 232, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  main {
+    margin-top: 18vw;
+  }
+}
+
+/* line 242, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+header.page_head {
+  text-align: center;
+}
+/* line 244, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+header.page_head h1 {
+  font-size: 3rem;
+  margin-bottom: 1em;
+  color: #082736;
+}
+@media screen and (max-width: 800px) {
+  /* line 244, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  header.page_head h1 {
+    font-size: 2rem;
+  }
+}
+/* line 248, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+header.page_head a.author_twitter {
+  overflow: hidden;
+  text-indent: 101%;
+  white-space: nowrap;
+  display: inline-block;
+  margin-left: 0.2em;
+  width: 0.8em;
+  height: 0.8em;
+  background: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 15.8 12.9' width='15.8px' height='12.9px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%2355acee'%3E%3Cpath d='M0,11.4c0.2,0,0.5,0,0.8,0c1.5,0,2.8-0.5,4-1.4c-0.7,0-1.3-0.2-1.9-0.6C2.4,9,2,8.5,1.8,7.8 c0.2,0,0.4,0.1,0.6,0.1c0.3,0,0.6,0,0.9-0.1C2.5,7.6,1.9,7.2,1.4,6.6C0.9,6,0.6,5.3,0.6,4.6v0c0.5,0.3,0.9,0.4,1.5,0.4 C1.7,4.6,1.3,4.3,1.1,3.8c-0.3-0.5-0.4-1-0.4-1.5c0-0.6,0.1-1.1,0.4-1.6c0.8,1,1.8,1.8,3,2.4c1.2,0.6,2.4,0.9,3.7,1 C7.7,3.7,7.7,3.5,7.7,3.2c0-0.9,0.3-1.7,0.9-2.3S10.1,0,11,0c0.9,0,1.7,0.3,2.4,1c0.7-0.1,1.4-0.4,2.1-0.8C15.1,1,14.7,1.6,14,2 c0.6-0.1,1.2-0.2,1.9-0.5c-0.4,0.7-1,1.2-1.6,1.7c0,0.1,0,0.2,0,0.4c0,0.9-0.1,1.7-0.4,2.6c-0.3,0.9-0.6,1.7-1.2,2.5 c-0.5,0.8-1.1,1.5-1.9,2.1s-1.6,1.1-2.6,1.5c-1,0.4-2.1,0.5-3.2,0.5C3.2,12.9,1.5,12.4,0,11.4z'/%3E%3C/g%3E%3C/svg%3E") center no-repeat;
+  background-size: contain;
+  vertical-align: baseline;
+}
+
+/* line 258, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+#flash {
+  position: fixed;
+  top: 0;
+  left: 15vw;
+  right: 15vw;
+  z-index: 1000;
+  text-align: center;
+}
+@media screen and (max-width: 600px) {
+  /* line 258, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  #flash {
+    left: 5vw;
+  }
+}
+@media screen and (max-width: 600px) {
+  /* line 258, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  #flash {
+    right: 5vw;
+  }
+}
+/* line 265, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+#flash p {
+  background: #fff;
+  border: 5px solid #082736;
+  border-top: 0;
+  color: #082736;
+  padding: 2vw;
+  font-size: 1.4em;
+  cursor: pointer;
+  opacity: 0.9;
+}
+@media screen and (max-width: 800px) {
+  /* line 265, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  #flash p {
+    font-size: 1.2em;
+  }
+}
+@media screen and (max-width: 600px) {
+  /* line 265, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+  #flash p {
+    font-size: 1em;
+  }
+}
+/* line 274, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_layout.sass */
+#flash p.error {
+  border-color: #ae1f23;
+  color: #ae1f23;
+}
+
+/* line 1, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+a {
+  text-decoration: none;
+  color: #ae1f23;
+}
+
+/* line 5, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.sticker {
+  color: #f31aae;
+  font-size: 2.3rem;
+  font-family: "Limelight", sans-serif;
+  text-align: center;
+  padding: 2.5em 1em 1em 3.5em;
+  box-sizing: border-box;
+  position: absolute;
+  top: 0.5em;
+  left: -3em;
+  width: 7em;
+  height: 7em;
+  background: #fff;
+  border-radius: 50%;
+  opacity: 0.7;
+  z-index: 500;
+}
+/* line 21, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.sticker span {
+  text-align: center;
+  display: block;
+  font-size: 0.7em;
+  text-transform: uppercase;
+}
+@media screen and (max-width: 600px) {
+  /* line 5, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+  .sticker {
+    top: -1em;
+  }
+}
+
+/* line 29, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+nav.pagination {
+  max-width: 40rem;
+  margin: 4rem auto;
+  text-align: center;
+}
+/* line 33, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+nav.pagination a {
+  background: rgba(255, 255, 255, 0.9);
+  border: 0.2rem solid rgba(255, 255, 255, 0.9);
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  margin: 0 0.5rem;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0.8em;
+  -webkit-transition: opacity 0.2s, color 0.2s;
+  transition: opacity 0.2s, color 0.2s;
+  color: #67acdb;
+}
+/* line 44, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+nav.pagination a:hover {
+  background: #fff;
+}
+
+/* line 47, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  margin-bottom: 3vw;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/* line 130, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/mercury.scss */
+.post:after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+@media screen and (max-width: 600px) {
+  /* line 47, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+  .post {
+    display: block;
+    padding: 0 1rem;
+  }
+}
+/* line 56, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post.draft {
+  opacity: 0.8;
+}
+/* line 58, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post section {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 1 auto;
+          flex: 0 1 auto;
+  box-sizing: border-box;
+  min-width: 35rem;
+  max-width: 60%;
+  background: rgba(255, 255, 255, 0.9);
+  border: 0.2rem solid rgba(255, 255, 255, 0.9);
+}
+@media screen and (max-width: 600px) {
+  /* line 58, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+  .post section {
+    max-width: none;
+    min-width: 0;
+  }
+}
+/* line 67, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post .post__content {
+  overflow: auto;
+  padding: 4vw;
+}
+/* line 71, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post .post__content h1:first-of-type a {
+  color: inherit;
+  display: block;
+  -webkit-transition: color 0.1s;
+  transition: color 0.1s;
+}
+/* line 75, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post .post__content h1:first-of-type a:hover {
+  color: #ae1f23;
+}
+/* line 77, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post footer {
+  font-style: italic;
+  text-align: right;
+  margin-top: 2em;
+}
+/* line 130, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/mercury.scss */
+.post footer:after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+/* line 82, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post footer p {
+  float: right;
+  margin: 0;
+  line-height: 1;
+}
+/* line 86, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post footer p.post__social {
+  float: left;
+}
+/* line 88, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post footer a {
+  color: inherit;
+}
+/* line 90, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post footer a.post__permalink {
+  font-size: 0.8em;
+}
+/* line 92, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post footer a:hover {
+  text-decoration: underline;
+}
+/* line 95, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  white-space: nowrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+/* line 100, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul li {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  padding: 0 0.2rem;
+}
+/* line 103, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a {
+  display: block;
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.3rem;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, sans-serif;
+  -webkit-transition: padding-left 0.1s;
+  transition: padding-left 0.1s;
+  border-top: 0.2rem solid #92c4d1;
+  text-align: center;
+  line-height: 2rem;
+  background: transparent;
+  -webkit-transition: background 0.1s;
+  transition: background 0.1s;
+}
+/* line 116, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a:hover {
+  background-color: #fff;
+}
+/* line 118, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a.post__raw-link {
+  border-color: #33d6ea;
+  color: #33d6ea;
+}
+/* line 121, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a.post__tag-link {
+  border-color: #10ca97;
+  color: #10ca97;
+}
+/* line 124, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a.post__permalink {
+  border-color: #67acdb;
+  color: #67acdb;
+}
+/* line 127, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a.post__edit-link {
+  border-color: #aaa;
+  color: #aaa;
+}
+/* line 130, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a.post__like-link {
+  border-color: #ee7567;
+  color: #ee7567;
+}
+/* line 133, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a.post__like-link:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 1.5rem;
+  width: 1.5rem;
+  margin-right: 1rem;
+  background: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 100 100' width='100px' height='100px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%23acd3eb'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M85.5,14.7C61.4,3.3,50,28.5,50,28.5S38.6,3.3,14.5,14.7 C-9.2,25.8-5.5,64.2,50,93C105.5,64.2,109.2,25.8,85.5,14.7z'/%3E%3C/g%3E%3C/svg%3E") center no-repeat;
+  background-size: contain;
+}
+/* line 142, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a.post__like-link span.post__like-label {
+  display: none;
+}
+/* line 144, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a.post__like-link.liked {
+  color: #ae1f23;
+  border-color: #ae1f23;
+}
+/* line 147, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.post aside ul a.post__like-link.liked:before {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 100 100' width='100px' height='100px' preserveAspectRatio='defer' shape-rendering='geometricPrecision'%3E%3Cg fill='%23ae1f23'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M85.5,14.7C61.4,3.3,50,28.5,50,28.5S38.6,3.3,14.5,14.7 C-9.2,25.8-5.5,64.2,50,93C105.5,64.2,109.2,25.8,85.5,14.7z'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* line 151, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+ul.post_list li {
+  padding: 0.2rem;
+  margin: 0.2rem 0;
+  background: rgba(255, 255, 255, 0.9);
+  border: 0.2rem solid rgba(255, 255, 255, 0.9);
+}
+/* line 155, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+ul.post_list li a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0.5rem;
+  color: #414347;
+  font-weight: bold;
+  z-index: 1;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+/* line 164, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+ul.post_list li a b {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+/* line 166, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+ul.post_list li a small {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  font-style: italic;
+  float: right;
+  text-align: right;
+  white-space: nowrap;
+  padding-left: 1rem;
+  color: #67acdb;
+}
+/* line 174, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+ul.post_list li a small span {
+  opacity: 0.5;
+  margin: 0 0.3rem;
+}
+/* line 177, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+ul.post_list li a:before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 100%;
+  background: #fff;
+  -webkit-transition: right 0.1s;
+  transition: right 0.1s;
+  z-index: -1;
+}
+/* line 187, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+ul.post_list li a:hover:before {
+  right: 0;
+}
+
+/* line 191, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form .field_with_errors {
+  display: inline;
+}
+/* line 193, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form .formError {
+  display: inline;
+  color: #ae1f23;
+  font-size: 0.85em;
+}
+/* line 197, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form label {
+  font-weight: bold;
+}
+/* line 199, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form label.checkbox {
+  display: block;
+  margin-bottom: 1.5em;
+}
+/* line 202, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form label.checkbox input[type='checkbox'] {
+  margin-right: 1rem;
+}
+/* line 205, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form dl dt {
+  margin-bottom: 0.5rem;
+}
+/* line 130, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/mercury.scss */
+form dl dt:after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+/* line 208, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form dl dt small {
+  float: right;
+  font-weight: bold;
+  font-size: 0.85em;
+  color: #082736;
+}
+/* line 213, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form dl dt small.negative {
+  color: #ae1f23;
+}
+/* line 215, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form dl dd {
+  margin-bottom: 1.5em;
+}
+/* line 217, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form fieldset.actions {
+  padding-top: 2rem;
+}
+/* line 219, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form input[type='text'],
+form input[type='search'],
+form textarea {
+  display: inline-block;
+  vertical-align: middle;
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #d5e9f5;
+  font-family: "Lora", "Helvetica Neue", Helvetica, sans-serif;
+  box-sizing: border-box;
+  border-radius: 0;
+  height: 4rem;
+  line-height: 3rem;
+}
+/* line 232, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form input[type='text']:focus,
+form input[type='search']:focus,
+form textarea:focus {
+  border-color: #67acdb;
+  outline: none;
+}
+/* line 235, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form #editor {
+  height: 300px;
+  width: 100%;
+  display: none;
+}
+/* line 239, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form textarea.autosize {
+  resize: none;
+}
+/* line 241, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form input[type='submit'],
+form button[type='submit'] {
+  color: #fff;
+  display: inline-block;
+  vertical-align: middle;
+  box-sizing: border-box;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 0;
+  background: #082736;
+  height: 4rem;
+  font-weight: 700;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, sans-serif;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  -webkit-transform: background 0.1s;
+          transform: background 0.1s;
+  margin-right: 2rem;
+}
+@media screen and (max-width: 800px) {
+  /* line 241, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+  form input[type='submit'],
+  form button[type='submit'] {
+    padding: 1rem;
+  }
+}
+/* line 258, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+form input[type='submit']:active, form input[type='submit']:focus, form input[type='submit']:hover,
+form button[type='submit']:active,
+form button[type='submit']:focus,
+form button[type='submit']:hover {
+  background: #ae1f23;
+  outline: none;
+}
+
+@media screen and (max-width: 600px) {
+  /* line 264, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+  .copy {
+    font-size: 0.85em;
+  }
+}
+/* line 267, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy h1, .copy h2, .copy h3, .copy p, .copy ul, .copy ol {
+  margin: 0 0 1.2em 0;
+}
+@media screen and (max-width: 600px) {
+  /* line 267, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+  .copy h1, .copy h2, .copy h3, .copy p, .copy ul, .copy ol {
+    margin-bottom: 0.7em;
+  }
+}
+/* line 271, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy h1 {
+  font-size: 1.6em;
+}
+/* line 273, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy h2, .copy h3 {
+  font-size: 1.2em;
+}
+/* line 275, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy p, .copy ul, .copy ol {
+  line-height: 1.6;
+}
+/* line 277, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy ul, .copy ol {
+  padding: 0 6vw;
+}
+/* line 279, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy ul {
+  list-style-type: disc;
+}
+/* line 281, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy ol {
+  list-style-type: decimal;
+}
+/* line 283, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy li + li {
+  margin-top: 0.2em;
+}
+/* line 285, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy code {
+  background: #d5e9f5;
+  padding: 0 0.4em;
+  margin: 0 0.2em;
+}
+/* line 289, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy pre {
+  margin-bottom: 1em;
+  overflow: auto;
+}
+/* line 292, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy pre code {
+  color: #fff;
+  display: block;
+  padding: 1em;
+  margin: 0;
+  width: 100%;
+  box-sizing: border-box;
+  line-height: 1.6;
+  overflow: auto;
+  background: #414347;
+}
+@media screen and (max-width: 600px) {
+  /* line 292, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+  .copy pre code {
+    padding: 0.5em;
+    font-size: 0.9em;
+  }
+}
+/* line 306, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy pre.highlight:before {
+  display: block;
+  content: attr(data-language);
+  color: #fff;
+  background-color: #333;
+  font-weight: bold;
+  font-size: 0.7em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.5rem;
+  text-align: right;
+  color: #aaa;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, sans-serif;
+}
+/* line 319, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy code {
+  font-size: 95%;
+}
+/* line 321, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+/* line 325, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.copy blockquote {
+  margin-bottom: 1.4em;
+  border-left: 0.4rem solid #d5e9f5;
+  padding: 1em 0 0.1em 3vw;
+  font-size: 0.9em;
+}
+@media screen and (max-width: 800px) {
+  /* line 325, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+  .copy blockquote {
+    margin-bottom: 1.1em;
+  }
+}
+
+/* line 331, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.more-info {
+  margin: 3vw auto;
+  text-align: center;
+  padding: 3vw;
+  max-width: 60rem;
+  font-style: italic;
+  line-height: 1.4;
+  font-size: 0.9em;
+}
+/* line 339, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_components.sass */
+.more-info a {
+  color: #ae1f23;
+}
+
+/* line 3, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#profile_edit form,
+#post_edit form {
+  max-width: 70rem;
+  margin: 0 auto 5rem auto;
+  padding: 0 1rem;
+}
+/* line 8, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#profile_edit .post .content_preview,
+#post_edit .post .content_preview {
+  min-height: 5rem;
+}
+/* line 10, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#profile_edit .post footer,
+#post_edit .post footer {
+  font-size: 1em;
+}
+/* line 12, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#profile_edit .post footer .negative,
+#post_edit .post footer .negative {
+  color: #ae1f23;
+}
+
+/* line 15, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics {
+  margin-bottom: 3rem;
+}
+/* line 130, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/vendor/assets/stylesheets/mercury.scss */
+#statistics:after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+/* line 18, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics .wrapper {
+  max-width: 82rem;
+  padding: 0 6vw;
+  margin: 0 auto 2vw auto;
+}
+@media screen and (max-width: 800px) {
+  /* line 18, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+  #statistics .wrapper {
+    padding: 0 3vw;
+  }
+}
+@media screen and (max-width: 600px) {
+  /* line 18, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+  #statistics .wrapper {
+    display: block;
+  }
+}
+/* line 20, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics .stats_column {
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+  padding-right: 1vw;
+}
+/* line 25, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics .stats_column.right {
+  float: right;
+  padding-right: 0;
+  padding-left: 1vw;
+}
+@media screen and (max-width: 600px) {
+  /* line 30, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+  #statistics .stats_column, #statistics .stats_column.right {
+    width: auto;
+    float: none;
+    padding: 0;
+  }
+}
+/* line 34, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics article {
+  margin-bottom: 3vw;
+}
+/* line 36, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics article header {
+  margin: 1em 0;
+}
+/* line 38, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics article header h1 {
+  text-align: center;
+  font-size: 1em;
+  color: #082736;
+}
+/* line 42, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart {
+  background: rgba(255, 255, 255, 0.9);
+  border: 0.2rem solid rgba(255, 255, 255, 0.9);
+  padding: 3rem 3vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 10vw;
+  min-height: 10rem;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+}
+/* line 49, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1;
+          flex: 1 1;
+  position: relative;
+}
+/* line 53, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li:nth-of-type(2n) .activity_chart_bar {
+  background: #90c3e5;
+}
+/* line 55, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li .activity_chart_bar {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #67acdb;
+  -webkit-transition: background-color, 0.1s;
+  transition: background-color, 0.1s;
+}
+/* line 62, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li:after, #statistics ul.activity_chart li:before {
+  display: none;
+  position: absolute;
+  color: #082736;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 0.8em;
+  left: 50%;
+  margin-left: -5rem;
+  width: 10rem;
+  text-align: center;
+}
+/* line 74, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li:after {
+  margin-top: 0.5rem;
+  top: 100%;
+  content: attr(data-amount) " posts";
+}
+/* line 78, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li.singular:after {
+  content: attr(data-amount) " post";
+}
+/* line 80, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li:before {
+  bottom: 100%;
+  margin-bottom: 0.5rem;
+  content: attr(data-date);
+}
+/* line 85, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li:nth-child(-n+5):after, #statistics ul.activity_chart li:nth-child(-n+5):before {
+  left: 0;
+  margin-left: 0;
+  text-align: left;
+}
+/* line 91, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li:nth-child(n+25):after, #statistics ul.activity_chart li:nth-child(n+25):before {
+  text-align: right;
+  margin-left: 0;
+  right: 0;
+  left: auto;
+}
+/* line 97, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li:hover {
+  background: #fff;
+}
+/* line 99, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li:hover .activity_chart_bar {
+  background: #082736;
+}
+/* line 101, /Users/michaeldimmitt/Desktop/DesktopDrawer/environment/public_projects/hr-til/app/assets/stylesheets/_pages.sass */
+#statistics ul.activity_chart li:hover:after, #statistics ul.activity_chart li:hover:before {
+  display: block;
+}
