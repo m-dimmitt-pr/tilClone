@@ -2,9 +2,9 @@ development: &default
   default_twitter_handle: 'hashrocket'
   google_client_id: '672451742467-l174olj3q8egh4fib17b5aof81seo30h.apps.googleusercontent.com'
   google_client_secret: 'F7Ry-0vh8Jfn3oV29_z9lIpP'
-  heroku_production_app_name:
-    host: 'pacific-badlands-34867.herokuapp.com/'
-  protocol: 'https://'
+    heroku_production_app_name: 'hr-til'
+  host: 'pacific-badlands-34867.herokuapp.com'
+  protocol: 'http://'
   permitted_domains: 'pacific-badlands-34867.herokuapp.com|localhost:3000|hashrocket.com|hshrckt.com|example.com'
   permitted_emails: 'michaelgdimmitt@gmail.com|michaeldimmitt@icloud.com'
   slack_post_endpoint:
