@@ -5,7 +5,6 @@ ruby '2.3.3'
 gem 'rails'
 
 gem 'active_model_serializers'
-gem 'airbrake'
 gem 'authem'
 gem 'autoprefixer-rails'
 gem 'coffee-rails', '~> 4.1.0'
